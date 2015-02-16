@@ -3,6 +3,7 @@ Name: cron
 Vendor: Red Hat
 Cartridge-Short-Name: CRON
 Version: '1.4'
+Source-Url: git@github.com:megsa01/metrics-cron-cartridge.git
 Architecture: noarch
 Display-Name: Cron 1.4
 Description: The Cron cartridge allows you to run command line programs at scheduled
