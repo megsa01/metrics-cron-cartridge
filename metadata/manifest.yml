@@ -1,5 +1,5 @@
 ---
-Name: cron
+Name: metricscron
 Vendor: CA
 Cartridge-Short-Name: METRICSCRON
 Version: '1.4'
